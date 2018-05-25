@@ -1,0 +1,20 @@
+To launch Cadence - type Virtuoso in /home/bee directory
+
+Work library where you can edit cell is ONC18MSEU
+
+0.18 Micron CMOS Design Kit Documentation is at:
+
+/opt/tech/onsemi/onc18/pdk/documentation
+
+Cadence Documentation
+
+/opt/cadence/IC616/doc
+
+Spectre Documentation
+
+/opt/cadence/MMSIM131/doc
+
+Calibre Documentation
+
+/opt/cadence/IC616/ixl_cal_2013.3_28.19/docs/pdfdocs
+
